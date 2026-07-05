@@ -1,4 +1,4 @@
-# D2CX WhatsApp Scheduler
+ WhatsApp Scheduler
 
 Auto-sends session reminders + feedback messages to your WhatsApp group. You fill the sheet, it handles the rest.
 
